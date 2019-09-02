@@ -63,7 +63,7 @@ using miaPaginaWeb.Models;
             WriteLiteral("\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(65, 2434, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1ff29fa3bd104c3495e34d48f265ff6d", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "975a7d8f6e3b4d0e9f3bf1a8c7d2bdae", async() => {
                 BeginContext(71, 1861, true);
                 WriteLiteral(@"
     <meta charset=""UTF-8"">
@@ -102,7 +102,7 @@ using miaPaginaWeb.Models;
             ");
                 EndContext();
                 BeginContext(1932, 269, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6feccb1324ab4ece80bdd6831134efca", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "13062e5a1f2d4495a270c05d4a260ca1", async() => {
                     BeginContext(1971, 223, true);
                     WriteLiteral("\r\n                <input class=\"form-control mr-sm-2\" type=\"search\" placeholder=\"Search\" aria-label=\"Search\">\r\n                <button class=\"btn btn-outline-success my-2 my-sm-0\" type=\"submit\">Search</button>\r\n            ");
                     EndContext();
@@ -145,7 +145,7 @@ using miaPaginaWeb.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(2501, 1015, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "b2033ef13fea44a5bb0a6fea614aeb0e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e6faf5eba0894fb0b661077bb21fa540", async() => {
                 BeginContext(2507, 1002, true);
                 WriteLiteral(@"
     <h1>per. ind. Massimiliano Flaugnacco</h1>
