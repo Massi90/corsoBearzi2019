@@ -28,4 +28,5 @@ C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\miaPa
 C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\miaPaginaWeb.pdb
 C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\miaPaginaWeb.csproj.CopyComplete
 C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\docente.g.cshtml.cs
-C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Studenti\Index.g.cshtml.cs
+C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Studenti\ListStudenti.g.cshtml.cs
+C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Massi.g.cshtml.cs

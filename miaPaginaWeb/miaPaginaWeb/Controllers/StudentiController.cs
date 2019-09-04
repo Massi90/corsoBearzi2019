@@ -8,7 +8,7 @@ namespace miaPaginaWeb.Controllers
 {
     public class StudentiController : Controller
     {
-        public IActionResult Index()
+        public IActionResult ListStudenti()
         {
             return View();
         }
