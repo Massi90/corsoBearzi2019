@@ -15,7 +15,7 @@ namespace miaPaginaWeb.Controllers
             return View();
         }
 
-        public IActionResult docente()
+        public IActionResult Docente()
         {
             return View();
         }

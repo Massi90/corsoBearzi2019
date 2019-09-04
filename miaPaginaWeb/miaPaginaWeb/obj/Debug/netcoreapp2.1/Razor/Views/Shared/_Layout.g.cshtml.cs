@@ -54,7 +54,7 @@ using miaPaginaWeb.Models;
             WriteLiteral("<!DOCTYPE html>\r\n<html lang=\"en\">\r\n");
             EndContext();
             BeginContext(35, 204, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a89e4ba48b314c69bff814ce22d069be", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "92f55e3965ae4fa892ea5efeca5159f8", async() => {
                 BeginContext(41, 139, true);
                 WriteLiteral("\r\n    <meta charset=\"utf-8\" />\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\", shrink-to-fit=\"no\">\r\n    <title>");
                 EndContext();
@@ -84,7 +84,7 @@ using miaPaginaWeb.Models;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(241, 1523, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "975e2bff239247c98d2ce2ae32901b25", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ae1f1d49fa0245959351d84b851e827f", async() => {
                 BeginContext(247, 834, true);
                 WriteLiteral(@"
     <header>
