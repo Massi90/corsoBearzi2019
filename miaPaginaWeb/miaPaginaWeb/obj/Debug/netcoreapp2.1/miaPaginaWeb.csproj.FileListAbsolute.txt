@@ -27,3 +27,4 @@ C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\miaPa
 C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\miaPaginaWeb.dll
 C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\miaPaginaWeb.pdb
 C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\miaPaginaWeb.csproj.CopyComplete
+C:\Users\bearzi\corsomio\miaPaginaWeb\miaPaginaWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\docente.g.cshtml.cs
